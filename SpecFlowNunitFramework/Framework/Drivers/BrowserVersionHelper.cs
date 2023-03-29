@@ -4,7 +4,7 @@ using Browser = SpecFlowNunitFramework.Framework.Wrapper.TestConstant.BrowserTyp
 
 namespace SpecFlowNunitFramework.Framework.Drivers
 {
-    internal class BrowserVersionHelper
+    public class BrowserVersionHelper
     {
         private object? _path;
 

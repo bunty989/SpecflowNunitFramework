@@ -2,7 +2,7 @@
 
 namespace SpecFlowNunitFramework.Framework.Wrapper
 {
-    internal class ConfigHelper
+    public class ConfigHelper
     {
         public static string ReadConfigValue(string configType, string keyValue)
         {

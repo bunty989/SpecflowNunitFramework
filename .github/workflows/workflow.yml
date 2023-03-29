@@ -41,7 +41,7 @@ jobs:
     - name: Pack NuGet package
       run: dotnet pack --configuration Release /p:Version='${{ steps.gitversion.outputs.SemVer }}' --no-build --output .
     - name: Upload NuGet package to GitHub
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: nugetPackage
         path: SpecFlowNunitFramework/bin/Release/ 

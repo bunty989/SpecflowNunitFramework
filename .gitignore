@@ -1,0 +1,4 @@
+/.vs/*
+/nuget/*
+/SpecFlowNunitFramework/obj/*
+/SpecFlowNunitFramework/bin/*

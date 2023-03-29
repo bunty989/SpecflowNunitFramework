@@ -8,9 +8,10 @@
     <Version>1.0.0</Version>
     <Authors>Soumil Soumyakant</Authors>
     <IncludeSymbols>True</IncludeSymbols>
-    <SymbolPackageFormat>symbols.nupkg</SymbolPackageFormat>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <Title>SS.SpecFlowNunitFramework</Title>
     <OutputType>Library</OutputType>
+    <RepositoryUrl>https://github.com/bunty989/SpecflowNunitFramework</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

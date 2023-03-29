@@ -11,6 +11,7 @@
     <SymbolPackageFormat>symbols.nupkg</SymbolPackageFormat>
     <Title>SS.SpecFlowNunitFramework</Title>
     <OutputType>Library</OutputType>
+    <RepositoryUrl>https://github.com/bunty989/SpecflowNunitFramework</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

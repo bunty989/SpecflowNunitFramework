@@ -2,3 +2,4 @@
 /nuget/*
 /SpecFlowNunitFramework/obj/*
 /SpecFlowNunitFramework/bin/*
+/*nupkg
